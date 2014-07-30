@@ -10,7 +10,7 @@ var trades = [
 	[["Emerald", 388, 1],["Steak", 364, 6]],
 	[["Emerald", 388, 1],["Cooked Porkchop", 320, 6]],
 	[["Emerald", 388, 2],["Leather Cap", 298, 1]],
-	[["Emerald", 388, 4],["Leather Tunic", 299, 1]],
+	[["Wheat"", 388, 4],["Diamond"", 299, 1]],
 	[["Emerald", 388, 2],["Leather Pants", 300, 1]],
 	[["Emerald", 388, 2],["Leather Boots", 301, 1]],
 	[["Emerald", 388, 6],["Saddle", 329, 1]],
